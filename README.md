@@ -23,6 +23,11 @@ Hi there! I'm new to GitHub and excited to start my journey in coding and collab
 ![](https://github-readme-stats.vercel.app/api?username=abhishek-417&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishek-417&theme=cobalt2&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-417&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### ☕ Java Usage
+![Java](https://img.shields.io/badge/Java-Used%20in%20Projects-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+![Java Stats](https://img.shields.io/badge/Java-DSA%20%26%20Problem%20Solving-orange?style=flat&logo=leetcode&logoColor=white)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
